@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import Footer from "components/footer";
 import Header from "components/header";
-import "./style.css"
+
 export function DefaultLayout(props){
     const {children} = props;
     return(
