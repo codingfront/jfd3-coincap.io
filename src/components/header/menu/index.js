@@ -6,7 +6,6 @@ import Style from "./style.js";
 export function Menu(){
     return(
         <Style>
-
             <ul>
                 <li><Link to="/">Coins</Link></li>
                 <li><Link to="/">Exchanges</Link></li>
